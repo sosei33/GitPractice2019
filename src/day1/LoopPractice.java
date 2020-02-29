@@ -8,6 +8,7 @@ public class LoopPractice {
             System.out.println("Counter : : " + 1);
             System.out.println("########");
             System.out.println("Java is Fun");
+            System.out.println("Okay");
 
         }
     }
