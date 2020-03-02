@@ -12,6 +12,8 @@ public class LoopPractice {
 
             System.out.println("ahhhh");
 
+            System.out.println("git is fun!!!");
+
         }
     }
 }
